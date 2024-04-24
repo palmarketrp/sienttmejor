@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>SienTT Mejor - Masajes Antiestrés</title>
 </head>
 <body>
     <div class="container">
